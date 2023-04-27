@@ -32,6 +32,6 @@ A estilização do projeto foi feita utilizando CSS e JavaScript e as cores fora
 
 A tela é responsiva e funciona em diferentes tamanhos. 
 
-## Autor
+## Créditos
 
-Este projeto foi desenvolvido por Kaique Costa, como parte de um exercício de HTML e CSS E JAVA SCRIPT. Deixo como agradecimento à RIOT GAMES
+Este projeto foi desenvolvido por Kaique Costa em conjunto com o canal MANUALDODEV do YouTube, como parte de um exercício de HTML e CSS E JAVA SCRIPT. Deixo como agradecimento à RIOT GAMES.
